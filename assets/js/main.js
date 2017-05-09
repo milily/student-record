@@ -1,3 +1,5 @@
+//Desarrollo del botón que debe imprimir en pantalla todas las estudiantes ingresadas con el botón AddStudent()
+
 function printAll(){
     var miDiv = document.getElementById("mostrar-pantalla");
     miDiv.innerHTML = "";
