@@ -1,3 +1,4 @@
+
 //Desarrollo del botón que debe imprimir en pantalla todas las estudiantes ingresadas con el botón AddStudent()
 
 function printAll(){
@@ -7,4 +8,3 @@ function printAll(){
     miDiv.innerHTML += "<br>" + "Nombre: " + value.nombre + "<br>" + "Porcentaje Técnico: " + value.porcentajeTecnico + "%" + "<br>" + "Porcentaje HSE: " + value.porcentajeHSC + "%" + "<br>";
     }); 
 }
-
